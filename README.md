@@ -12,4 +12,4 @@
 - Cocoa Touch
 - works with Core Data 
 
-Do this app with course at coursera - [Swift 5 iOS Application Developer Specialization](#https://www.coursera.org/specializations/swift-5-ios-app-developer)
+Do this app with course at coursera - [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer)
